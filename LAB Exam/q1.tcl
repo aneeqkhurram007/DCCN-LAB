@@ -4,8 +4,8 @@ set nf [open q1.nam w]
 $ns namtrace-all $nf
 
 # Creating graph files
-set f0 [open out0.tr w]
-set f1 [open out1.tr w]
+set f0 [open q10.tr w]
+set f1 [open q11.tr w]
 
 
 # Creating nodes 1 to 14
